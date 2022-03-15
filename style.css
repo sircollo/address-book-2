@@ -8,3 +8,6 @@ form{
 #show-contact{
     display: none;
 }
+.contact:hover {
+    text-decoration: underline;
+  }  
